@@ -12,7 +12,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Laura Kocksch, Mace Ojala and Katharina Kinder-Kurlanda (2022). [Data Sprint Learning: Exercising Proximity to Data in Teaching Situations](https://revistadigitos.com/index.php/digitos/article/view/232). *Dígitos*.
 - Mace Ojala (2021). [Maintain-ability. A Thesis on Life Alongside Computer Software](https://urn.fi/URN:NBN:fi:tuni-202202031820). *Tampere University*. M.Sc. thesis.
 - Katrine Meldgaard Kjær, Mace Ojala and Line Henriksen (2021). [Absent Data: Engagements with absence in a Twitter collection](https://doi.org/10.28968/cftt.v7i2.34563). *Catalyst: Feminism, Theory, Technoscience*. 7(2)
-- Line Henriksen, Katrine Meldgaard Kjær and Mace Ojala (2021). Objektivitet in *Aktornetverksteori i praksis*.
+- Line Henriksen, Katrine Meldgaard Kjær and Mace Ojala (2021). Objektivitet in Irina Papazu and Brit Ross Winthereik (eds.) *Aktørnetværksteori. I praksis*. Djøf Forlag.
 - Mace Ojala (2020). [Data Moment, Enacted](https://urn.fi/URN:NBN:fi:tuni-201908152909) (2020). *Tampere University*, B.Sc. thesis.
 - Rachel Douglas-Jones, John Burnett, Marisa Cohn, Christian Gad, Michael Hockenhull, Bastian Jørgensen, James Maguire, Mace Ojala and Brit Ross Winthereik (2018). [Bestiary of Digital Monsters](https://doi.org/10.1007/978-3-030-04091-8_13). In *Living with Monsters?: Social Implications of Algorithmic Phenomena, Hybrid Agency, and the Performativity of Technology*. Springer, p. 177-190 (IFIP AICT – Advances in Information and Communication technology, Vol. 543).
 
