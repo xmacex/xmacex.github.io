@@ -32,10 +32,11 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 ## A selection of talks
 
 - Feminist ethos under data production pressures. EASST, Madrid, 2022.
-- Blood, Kin and Code. Capturing Social Media Data from Copenhagen. Big Data in Communication Research: A contextual turn? – An IAMCR pre-conference. with Qiuyu Jiang and Rachel Douglas-Jones, Beijing, 2022.
-- Maintain-ability. On Life Alongside Software. DASTS, Aarhus, 2022.
+- Blood, kin and code. Capturing social media data from Copenhagen. Big Data in Communication Research: A contextual turn? – An IAMCR pre-conference. with Qiuyu Jiang and Rachel Douglas-Jones, Beijing, 2022.
+- Maintain-ability. On life alongside software. DASTS, Aarhus, 2022.
+- Life alongside code. Processing Community Day, Aarhus, 2021.
 - Experiencing collective accounts of “touch”. Analyzing software maintainers just speak. RUST Lab lecture serie, Bochum, 2020.
-- Software Maintenance as Materialization of Common Knowledge. EASST/4S, Prague, 2020.
+- Software maintenance as materialization of common knowledge. EASST/4S, Prague, 2020.
 - "As is". Patterns in Resistance, Copenhagen, 2018.
 
 ## Teaching
