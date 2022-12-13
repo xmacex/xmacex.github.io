@@ -19,11 +19,11 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 ## In press
 
 - A critical code studies thing.
-- A code poetry thing.
 - A lexicon entry thing.
 
 ## Other formats
 
+- DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). *Breaking ant making code poems* (2022)
 - Data Object, with Baki Cakici. Algorithmically generated 3D printed memento for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski and Andreas Bischof. A podcast panel at EASST/4S 2020 and EASST 2022.
 
