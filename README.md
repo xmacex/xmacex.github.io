@@ -24,11 +24,14 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Other formats
 
-- DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). *Breaking ant making code poems* (2022)
+- Nordic Perspectives on Algorithmic Systems, with Airi Lampinen, Pedro Ferreira, Matti Nelimarkka, Michael Hockenhull, Jesse Haapoja, Marisa Cohn and Juho Pääkkönen. A card set developed at a workshop series to reconstruct and reimagine your automic existence (2022).
+- DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). *Breaking ant making code poems* (2022).
 - Data Object, with Baki Cakici. Algorithmically generated 3D printed memento for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski and Andreas Bischof. A podcast panel at EASST/4S 2020 and EASST 2022.
 
-<img src="assets/images/breaking_and_making_code_poems.jpg" width="31%"/> <img src="assets/images/data-object.jpg" width="31%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" width="31%"/>
+<img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.jpg" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.jpg" width="49%"/>
+
+<img src="assets/images/data-object.jpg" width="49%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" width="49%"/>
 
 ## A selection of talks
 
