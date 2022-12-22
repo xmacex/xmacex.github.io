@@ -27,7 +27,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Data Object, with Baki Cakici. Algorithmically generated 3D printed memento for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski and Andreas Bischof. A podcast panel at EASST/4S 2020 and EASST 2022.
 
-<img src="assets/images/data-object.jpg" width="49%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" width="49%"/>
+<img src="assets/images/breaking_and_making_code_poems.jpg" width="31%"></img><img src="assets/images/data-object.jpg" width="31%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" width="31%"/>
 
 ## A selection of talks
 
