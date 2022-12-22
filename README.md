@@ -8,6 +8,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Publications
 
+- Stefan Laser, Anne Pasek, Estrid Sørensen, Mél Hogan, Mace Ojala, Jens Fehrenbacher, Maximilian Gregor Hepach, Leman Çelik, Koushik Ravi Kumar (2022). [The environmental footprint of social media hosting: Tinkering with Mastodon](https://www.easst.net/article/the-environmental-footprint-of-social-media-hosting-tinkering-with-mastodon/). EASST Review Volume 41(3)
 - Vanessa Ashall, Tobias Held, Stefan Laser, Julie Sascia Mewes, Mace Ojala, Nona Schulte-Roemer, Robert Smith, Richard Tutton and Sine Zambach (2022). [Fieldnotes on FlyingLess Conferencing](https://www.easst.net/article/fieldnotes-on-flyingless-conferencing/). *EASST Review*.
 - Laura Kocksch, Mace Ojala and Katharina Kinder-Kurlanda (2022). [Data Sprint Learning: Exercising Proximity to Data in Teaching Situations](https://revistadigitos.com/index.php/digitos/article/view/232). *Dígitos*.
 - Mace Ojala (2021). [Maintain-ability. A Thesis on Life Alongside Computer Software](https://urn.fi/URN:NBN:fi:tuni-202202031820). *Tampere University*. M.Sc. thesis.
