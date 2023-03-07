@@ -25,13 +25,13 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 ## Other formats
 
 - Nordic Perspectives on Algorithmic Systems, with Airi Lampinen, Pedro Ferreira, Matti Nelimarkka, Michael Hockenhull, Jesse Haapoja, Marisa Cohn and Juho Pääkkönen. A card set developed at a workshop series to reconstruct and reimagine your automic existence (2022).
-- DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). *Breaking ant making code poems* (2022).
-- Data Object, with Baki Cakici. Algorithmically generated 3D printed memento for researchers visiting the ETHOS Lab.
+- DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). *Breaking and making code poems* (2022).
+- Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski and Andreas Bischof. A podcast panel at EASST/4S 2020 and EASST 2022.
 
-<img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.jpg" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.jpg" width="49%"/>
+<img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.jpg" alt="Nordic Perspectives on Algorithmic Systems card deck" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.jpg" alt="DROP TABLE; code poetry and algorithmic image manipulation" width="49%"/>
 
-<img src="assets/images/data-object.jpg" width="49%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" width="49%"/>
+<img src="assets/images/data-object.jpg" alt="Data Object, algorithmically generated 3D mementos" width="49%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" alt="Hacker Cultures podcast "width="49%"/>
 
 ## A selection of talks
 
@@ -45,6 +45,11 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Teaching
 
+### Summer 2023 at Ruhr University Bochum
+
+- Programmieren für Medienwissenschaftler*innen
+- Software and the sonic subconsciousness of the digital
+
 ### Winter 2022/2023 at Ruhr University Bochum
 
 - Programmieren für Medienwissenschaftler*innen
@@ -52,4 +57,4 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ### Earlier
 
-I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, controversy mapping and web design at IT University of Copenhagen, University of Copenhagen, at University of Klagenfurt and at the Royal Danish Academy of Fine Arts.
+I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, controversy mapping, web design, sociology at IT University of Copenhagen, University of Copenhagen, at University of Klagenfurt and at the Royal Danish Academy of Fine Arts.
