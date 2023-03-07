@@ -31,7 +31,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 <img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.jpg" alt="Nordic Perspectives on Algorithmic Systems card deck" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.jpg" alt="DROP TABLE; code poetry and algorithmic image manipulation" width="49%"/>
 
-<img src="assets/images/data-object.jpg" alt="Data Object, algorithmically generated 3D mementos" width="49%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" alt="Hacker Cultures podcast "width="49%"/>
+<img src="assets/images/data-object.jpg" alt="Data Object, algorithmically generated 3D mementos" width="49%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" alt="Hacker Cultures podcast" width="49%"/>
 
 ## A selection of talks
 
