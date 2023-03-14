@@ -2,7 +2,7 @@
 
 ## Bio
 
-Mace Ojala is a Software Studies scholar and cares about computer software as culture. Where does it come from, who maintains it, what is it, are there many softwares or only one, what’s fun about it… or is there anything special about software at all? To engage these questions Mace draws from science and technology studies, Philosophy and praxis.
+Mace Ojala (nothing quite like writing about yourself in third person on the Internet) is a Software Studies scholar and cares about computer software as culture. Where does it come from, who maintains it, what is it, are there many softwares or only one, what’s fun about it… or is there anything special about software at all? To engage these questions Mace draws from science and technology studies, Philosophy and praxis.
 
 When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and might never exist again.
 
