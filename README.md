@@ -35,6 +35,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## A selection of talks
 
+- Testing to Circulate. Addressing the Epistemic Gaps of Software Testing, with Anja Klein, Libuše H. Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023.
 - Feminist ethos under data production pressures. EASST, Madrid, 2022.
 - Blood, kin and code. Capturing social media data from Copenhagen. Big Data in Communication Research: A contextual turn? – An IAMCR pre-conference. with Qiuyu Jiang and Rachel Douglas-Jones, Beijing, 2022.
 - Maintain-ability. On life alongside software. DASTS, Aarhus, 2022.
