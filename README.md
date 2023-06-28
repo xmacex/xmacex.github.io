@@ -6,6 +6,11 @@ Mace Ojala (nothing quite like writing about yourself in third person on the Int
 
 When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and might never exist again.
 
+## Education
+
+- Master of Science in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2022
+- Bachelor of Science in Multidisciplinary Communication Studies, specialization in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2020.
+
 ## Publications
 
 - Mace Ojala (2023). Maintenance. In James Maguire and Brit Ross Winthereik (eds.) [*Reclaiming Technology: A Poetic-scientific Vocabulary*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/). Ctrl+Alt+Delete Books.
