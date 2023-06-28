@@ -21,7 +21,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 ## In press
 
 - A critical code studies thing.
-- A lexicon entry thing.
+- A media praxis thing.
 
 ## Other formats
 
