@@ -27,6 +27,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 - A critical code studies thing.
 - A media praxis thing.
+- A lab pedagogy thing.
 
 ## Other formats
 
