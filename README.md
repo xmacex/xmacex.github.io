@@ -13,7 +13,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Publications
 
-- Paul Heinicker, Armin Beverungen, Paul Hoffstiepel, Mace Ojala and Antonia Wulff (2023). ![Medienpraxislehre in der Medienwissenschaft. Empirie und Exploration](https://doi.org/10.14361/zfmw-2023-150217). *ZfM – Zeitschrift für Medienwissenschaft*.
+- Paul Heinicker, Armin Beverungen, Paul Hoffstiepel, Mace Ojala and Antonia Wulff (2023). [*Medienpraxislehre in der Medienwissenschaft. Empirie und Exploration*](https://doi.org/10.14361/zfmw-2023-150217). *ZfM – Zeitschrift für Medienwissenschaft*.
 - Mace Ojala (2023). Maintenance. In James Maguire and Brit Ross Winthereik (eds.) [*Reclaiming Technology: A Poetic-scientific Vocabulary*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/). Ctrl+Alt+Delete Books.
 - Stefan Laser, Anne Pasek, Estrid Sørensen, Mél Hogan, Mace Ojala, Jens Fehrenbacher, Maximilian Gregor Hepach, Leman Çelik, Koushik Ravi Kumar (2022). [The environmental footprint of social media hosting: Tinkering with Mastodon](https://www.easst.net/article/the-environmental-footprint-of-social-media-hosting-tinkering-with-mastodon/). EASST Review Volume 41(3).
 - Vanessa Ashall, Tobias Held, Stefan Laser, Julie Sascia Mewes, Mace Ojala, Nona Schulte-Roemer, Robert Smith, Richard Tutton and Sine Zambach (2022). [Fieldnotes on FlyingLess Conferencing](https://www.easst.net/article/fieldnotes-on-flyingless-conferencing/). *EASST Review*.
