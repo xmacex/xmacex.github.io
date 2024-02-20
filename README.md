@@ -54,6 +54,10 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Teaching
 
+### Summer 2024 at Paderborn University
+
+- Let's make pixels, algos and interactions
+
 ### Summer 2023 at Ruhr University Bochum
 
 - Programmieren für Medienwissenschaftler*innen
