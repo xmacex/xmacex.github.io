@@ -75,4 +75,4 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ### Earlier
 
-I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, controversy mapping, web design, sociology at IT University of Copenhagen, University of Copenhagen, at University of Klagenfurt and at the Royal Danish Academy of Fine Arts.
+I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, data analysis, controversy mapping, web design, sociology and cyberfeminism(s) at IT University of Copenhagen, University of Copenhagen, University of Klagenfurt, and The Royal Danish Academy of Fine Arts.
