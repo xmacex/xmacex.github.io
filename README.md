@@ -32,10 +32,14 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Other formats
 
+- [Software and the sonic subconscious of the digital](https://open.ruhr-uni-bochum.de/en/lernangebot/software-and-sonic-subconscious-digital-oer). An Open Educational Resource (OER) on software studies and sound studies (2024).
+- [Creative programming in the wake of Modernism](https://open.ruhr-uni-bochum.de/en/lernangebot/creative-programming-wake-modernism-oer). An Open Educational Resource (OER) on creative programming with p5.js (2024).
 - Nordic Perspectives on Algorithmic Systems, with Airi Lampinen, Pedro Ferreira, Matti Nelimarkka, Michael Hockenhull, Jesse Haapoja, Marisa Cohn and Juho Pääkkönen. A card set developed at a workshop series to reconstruct and reimagine your automic existence (2022).
 - DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). *Breaking and making code poems* (2022).
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski and Andreas Bischof. A podcast panel at EASST/4S 2020 and EASST 2022.
+
+<img src="assets/images/software_and_the_sonic_subconscious_of_the_digital-oer.gif" alt="Software and the sonic subconscious of the digital OER" width="49%"/> <img src="assets/images/creative_programming_in_the_wake_of_modernism-oer.png" alt="Creative programming in the wake of Modernism OER" width="49%"/>
 
 <img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.jpg" alt="Nordic Perspectives on Algorithmic Systems card deck" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.jpg" alt="DROP TABLE; code poetry and algorithmic image manipulation" width="49%"/>
 
