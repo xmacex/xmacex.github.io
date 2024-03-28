@@ -40,11 +40,11 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski and Andreas Bischof. A podcast panel at EASST/4S 2020 and EASST 2022.
 
-<img src="assets/images/software_and_the_sonic_subconscious_of_the_digital-oer.gif" alt="Software and the sonic subconscious of the digital OER" width="49%"/> <img src="assets/images/creative_programming_in_the_wake_of_modernism-oer.png" alt="Creative programming in the wake of Modernism OER" width="49%"/>
+<a href="https://open.ruhr-uni-bochum.de/lernangebot/software-and-sonic-subconscious-digital-oer" title="Software and the sonic subconscious of the digital OER"><img src="assets/images/software_and_the_sonic_subconscious_of_the_digital-oer.gif" alt="Software and the sonic subconscious of the digital OER" width="49%"/></a> <a href="https://open.ruhr-uni-bochum.de/lernangebot/creative-programming-wake-modernism-oer" title="Creative programming in the wake of Modernism OER"><img src="assets/images/creative_programming_in_the_wake_of_modernism-oer.png" alt="Creative programming in the wake of Modernism OER" width="49%"/></a>
 
 <img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.jpg" alt="Nordic Perspectives on Algorithmic Systems card deck" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.jpg" alt="DROP TABLE; code poetry and algorithmic image manipulation" width="49%"/>
 
-<img src="assets/images/data-object.jpg" alt="Data Object, algorithmically generated 3D mementos" width="49%"/> <img src="assets/images/paula_and_mace_in_the_podcast_studio.png" alt="Hacker Cultures podcast" width="49%"/>
+<a href="https://github.com/ituethoslab/make_a_data_object" title="Made a Data Object generator"><img src="assets/images/data-object.jpg" alt="Data Object, algorithmically generated 3D mementos" width="49%"/></a> <a href="https://www.buzzsprout.com/1323889" title="Hacker Cultures podcast"><img src="assets/images/paula_and_mace_in_the_podcast_studio.png" alt="Hacker Cultures podcast" width="49%"/></a>
 
 ## A selection of talks
 
