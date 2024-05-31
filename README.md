@@ -13,6 +13,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Publications
 
+- RUSTlab, Katrin Amelang, Ryoko Asai, Leman Çelik,Ruth Eggel, Olga Galanova, Stefan Laser, Mace Ojala, Fabian Pittroff, Estrid Sørensen and Lynn Werner  (2024). [Please Go Away... We're Reading. A Practice Approach to a Taken-for-Granted Academic Craft](https://doi.org/10.22029/oc.2024.1415 ). *On_Culture*16.
 - Mace Ojala, Marisa Leavitt Cohn (2024). [Software Maintenance as Materialization of Common Knowledge](https://doi.org/10.17351/ests2023.1325). *Engaging Science, Technology, and Society* 9(3).
 - Paul Heinicker, Armin Beverungen, Paul Hoffstiepel, Mace Ojala and Antonia Wulff (2023). [Medienpraxislehre in der Medienwissenschaft. Empirie und Exploration](https://doi.org/10.14361/zfmw-2023-150217). *ZfM – Zeitschrift für Medienwissenschaft*.
 - Mace Ojala (2023). Maintenance. In James Maguire and Brit Ross Winthereik (eds.) [*Reclaiming Technology: A Poetic-scientific Vocabulary*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/). Ctrl+Alt+Delete Books.
