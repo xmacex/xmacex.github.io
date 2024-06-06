@@ -50,6 +50,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## A selection of talks
 
+- Machine Listening and Human Listening, with Marja Ahti. Blaues Rauschen, Bochum, 2024.
 - On Becoming an Infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
 - Testing to Circulate. Addressing the Epistemic Gaps of Software Testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023.
 - Feminist ethos under data production pressures. EASST, Madrid, 2022.
