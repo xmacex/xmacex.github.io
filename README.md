@@ -42,6 +42,8 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020 and EASST 2022.
 
+<a href="https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024" title="What fits in a file? exhibition"><img src="assets/images/what-fits-in-a-file.gif" alt="What fits in a file? exhibition" width="49%"/></a>
+
 <a href="https://open.ruhr-uni-bochum.de/lernangebot/software-and-sonic-subconscious-digital-oer" title="Software and the sonic subconscious of the digital OER"><img src="assets/images/software_and_the_sonic_subconscious_of_the_digital-oer.gif" alt="Software and the sonic subconscious of the digital OER" width="49%"/></a> <a href="https://open.ruhr-uni-bochum.de/lernangebot/creative-programming-wake-modernism-oer" title="Creative programming in the wake of Modernism OER"><img src="assets/images/creative_programming_in_the_wake_of_modernism-oer.gif" alt="Creative programming in the wake of Modernism OER" width="49%"/></a>
 
 <img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.gif" alt="Nordic Perspectives on Algorithmic Systems card deck" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.gif" alt="DROP TABLE; code poetry and algorithmic image manipulation" width="49%"/>
