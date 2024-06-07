@@ -28,12 +28,12 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## In press
 
-- A reading thing.
 - A critical code studies thing.
 - A lab pedagogy thing.
 
 ## Other formats
 
+- [What fits in a file?](). An exhibition at Ruhr University Bochum.
 - [Software and the sonic subconscious of the digital](https://open.ruhr-uni-bochum.de/en/lernangebot/software-and-sonic-subconscious-digital-oer). An Open Educational Resource (OER) on software studies and sound studies (2024).
 - [Creative programming in the wake of Modernism](https://open.ruhr-uni-bochum.de/en/lernangebot/creative-programming-wake-modernism-oer). An Open Educational Resource (OER) on creative programming with p5.js (2024).
 - [Database of Byzantine Book Epigrams](https://doi.org/10.5281/zenodo.7682523), with the DBBE team at UGent and Ghent Centre for Digital Humanities (2023)
