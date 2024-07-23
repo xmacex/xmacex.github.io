@@ -33,7 +33,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Other formats
 
-- AR datacenter, with Estrid Sørensen, Sandra Abels and Stefan Laser. An Augmented Reality experience at EASST/4S 2024.
+- AR data center, with Estrid Sørensen, Sandra Abels and Stefan Laser. An Augmented Reality experience at EASST/4S 2024.
 - [Transforming data practices in the humanities: virtual research environments revisited](https://www.easst4s2024.net/programme/#14335). Panel at EASST/4S in Amsterdam (2024).
 - [What fits in a file?](https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024) An exhibition at Ruhr University Bochum (2024).
 - [Software and the sonic subconscious of the digital](https://open.ruhr-uni-bochum.de/en/lernangebot/software-and-sonic-subconscious-digital-oer). An Open Educational Resource (OER) on software studies and sound studies (2024).
@@ -44,11 +44,11 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020, EASST 2022 and EASST/4S 2024.
 
-<img src="assets/images/ar-datacenter.gif" alt="AR data center" width="49%"/><a href="https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024" title="What fits in a file? exhibition"><img src="assets/images/what-fits-in-a-file.gif" alt="What fits in a file? exhibition" width="49%"/></a>
+<img src="assets/images/ar-datacenter.gif" alt="AR data center" title="AR data center" width="49%"/><a href="https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024" title="What fits in a file? exhibition"><img src="assets/images/what-fits-in-a-file.gif" alt="What fits in a file? exhibition" width="49%"/></a>
 
 <a href="https://open.ruhr-uni-bochum.de/lernangebot/software-and-sonic-subconscious-digital-oer" title="Software and the sonic subconscious of the digital OER"><img src="assets/images/software_and_the_sonic_subconscious_of_the_digital-oer.gif" alt="Software and the sonic subconscious of the digital OER" width="49%"/></a> <a href="https://open.ruhr-uni-bochum.de/lernangebot/creative-programming-wake-modernism-oer" title="Creative programming in the wake of Modernism OER"><img src="assets/images/creative_programming_in_the_wake_of_modernism-oer.gif" alt="Creative programming in the wake of Modernism OER" width="49%"/></a>
 
-<img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.gif" alt="Nordic Perspectives on Algorithmic Systems card deck" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.gif" alt="DROP TABLE; code poetry and algorithmic image manipulation" width="49%"/>
+<img src="assets/images/nordic_perspectives_on_algorithmic_systems-cards.gif" alt="Nordic Perspectives on Algorithmic Systems card deck" title="Nordic Perspectives on Algorithmic Systems card deck" width="49%"/> <img src="assets/images/breaking_and_making_code_poems.gif" alt="DROP TABLE; code poetry and algorithmic image manipulation" title="DROP TABLE; code poetry and algorithmic image manipulation" width="49%"/>
 
 <a href="https://github.com/ituethoslab/make_a_data_object" title="Made a Data Object generator"><img src="assets/images/data-object.gif" alt="Data Object, algorithmically generated 3D mementos" width="49%"/></a> <a href="https://www.buzzsprout.com/1323889" title="Hacker Cultures podcast"><img src="assets/images/paula_ariel_and_mace_in_the_podcast_studio.gif" alt="Hacker Cultures podcast" width="49%"/></a>
 
