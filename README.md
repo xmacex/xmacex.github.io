@@ -13,6 +13,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Publications
 
+- File, empty (2024). In Early Career Forum des SFB 1567 (ed.) [*Vokabular des Virtuellen. Ein situiertes Lexicon*](https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1). transcript Verlag.
 - RUSTlab, Katrin Amelang, Ryoko Asai, Leman Çelik,Ruth Eggel, Olga Galanova, Stefan Laser, Mace Ojala, Fabian Pittroff, Estrid Sørensen and Lynn Werner  (2024). [Please Go Away... We're Reading. A Practice Approach to a Taken-for-Granted Academic Craft](https://doi.org/10.22029/oc.2024.1415 ). *On_Culture* 16.
 - Mace Ojala, Marisa Leavitt Cohn (2024). [Software Maintenance as Materialization of Common Knowledge](https://doi.org/10.17351/ests2023.1325). *Engaging Science, Technology, and Society* 9(3).
 - Paul Heinicker, Armin Beverungen, Paul Hoffstiepel, Mace Ojala and Antonia Wulff (2023). [Medienpraxislehre in der Medienwissenschaft. Empirie und Exploration](https://doi.org/10.14361/zfmw-2023-150217). *ZfM – Zeitschrift für Medienwissenschaft*.
@@ -44,6 +45,8 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). [*Breaking and making code poems*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/) (2022).
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020, EASST 2022 and EASST/4S 2024.
+
+<a href="https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1" title="File, empty"><img src="assets/images/file_empty.gif" alt="File, empty" width="49%"/></a>
 
 <img src="assets/images/ar-datacenter.gif" alt="AR data center" title="AR data center" width="49%"/><a href="https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024" title="What fits in a file? exhibition"><img src="assets/images/what-fits-in-a-file.gif" alt="What fits in a file? exhibition" width="49%"/></a>
 
