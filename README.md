@@ -29,6 +29,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## In press
 
+- A perspective on algorithms thing.
 - A critical code studies thing.
 - A lab pedagogy thing.
 
