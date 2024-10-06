@@ -9,7 +9,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 ## Education
 
 - Doctor of Philosophy. Ruhr University Bochum, Virtuelle Lebenswelten collaborative research center (DfG SFB 1567). Started 2023 →
-- Master of Science in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2022
+- Master of Science in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2022.
 - Bachelor of Science in Multidisciplinary Communication Studies, specialization in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2020.
 
 ## Publications
@@ -59,6 +59,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## A selection of talks
 
+- If we disassemble our PDF files, will we find our hopes and dreams inside? Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024.
 - Machine Listening and Human Listening, with Marja Ahti. Blaues Rauschen, Bochum, 2024.
 - On Becoming an Infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
 - Testing to Circulate. Addressing the Epistemic Gaps of Software Testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023.
