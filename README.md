@@ -14,6 +14,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Publications
 
+- Pedro Ferreira, Michael Hockenhull, Mace Ojala, Rebeca Blanco Cardozo, Matti Nelimarkka, Airi Lampinen (2024). [Nordic Perspectives on Algorithmic Systems Card Box](https://doi.org/10.1145/3698594). *ACM Interactions* 31(6).
 - File, empty (2024). In Early Career Forum des SFB 1567 (ed.) [*Vokabular des Virtuellen. Ein situiertes Lexicon*](https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1). transcript Verlag.
 - RUSTlab, Katrin Amelang, Ryoko Asai, Leman Çelik,Ruth Eggel, Olga Galanova, Stefan Laser, Mace Ojala, Fabian Pittroff, Estrid Sørensen and Lynn Werner  (2024). [Please Go Away... We're Reading. A Practice Approach to a Taken-for-Granted Academic Craft](https://doi.org/10.22029/oc.2024.1415 ). *On_Culture* 16.
 - Mace Ojala, Marisa Leavitt Cohn (2024). [Software Maintenance as Materialization of Common Knowledge](https://doi.org/10.17351/ests2023.1325). *Engaging Science, Technology, and Society* 9(3).
@@ -30,7 +31,6 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## In press
 
-- A perspective on algorithms thing.
 - A critical code studies thing.
 - A lab pedagogy thing.
 
