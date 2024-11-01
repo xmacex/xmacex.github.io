@@ -76,6 +76,10 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Software maintenance as materialization of common knowledge. EASST/4S, Prague, 2020.
 - "As is". Patterns in Resistance, Copenhagen, 2018.
 
+## Projects
+
+I've worked on a bunch of projects (haven't we all?), such as [GIFT](https://gifting.digital) which is a Horizon 2020 funded design project for museums, [Data as Relation](https://dar.itu.dk) about well, what the name says, [Mapping a Colony](http://mappingacolony.org) exploring the colonial relations between the US Virgin Islands and Denmark, and importantly research into software maintenance with Marisa Cohn.
+
 ## Teaching
 
 ### Winter 2024/2025 at Ruhr University Bochum
