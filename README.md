@@ -6,6 +6,10 @@ Mace Ojala (nothing quite like writing about yourself in third person on the Int
 
 When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and might never exist again.
 
+<p align="center">
+    <img src="assets/images/nudelsalat.gif" />
+</p>
+
 ## Education
 
 - Doctor of Philosophy. Ruhr University Bochum, Virtuelle Lebenswelten collaborative research center (DfG SFB 1567). Started 2023 →
