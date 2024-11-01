@@ -74,20 +74,25 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Teaching
 
+### Winter 2024/2025 at Ruhr University Bochum
+
+- Digitale Methoden und kritische Datenforschung
+
 ### Summer 2024 at Paderborn University
 
 - Let's make pixels, algos and interactions
 
-### Summer 2023 at Ruhr University Bochum
+### 2022 to 2024 at Ruhr University Bochum
 
 - Programmieren für Medienwissenschaftler*innen
 - Software and the sonic subconsciousness of the digital
-
-### Winter 2022/2023 at Ruhr University Bochum
-
 - Programmieren für Medienwissenschaftler*innen
 - Nachhaltigkeit und kritische Datenforschung
 
-### Earlier
+### 2021 to 2023 at University of Klagenfurt
 
-I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, data analysis, controversy mapping, web design, sociology and cyberfeminism(s) at IT University of Copenhagen, University of Copenhagen, University of Klagenfurt, and The Royal Danish Academy of Fine Arts.
+A data sprint for PhD students.
+
+### 2017 to 2022 in Copenhagen
+
+I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, data analysis, controversy mapping, web design, sociology, cyberfeminism(s) and programming at University of Copenhagen (KU), IT University of Copenhagen (ITU), as well as at the The Royal Danish Academy of Fine Arts.
