@@ -48,11 +48,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020, EASST 2022 and EASST/4S 2024.
 
-<<<<<<< HEAD
-<img src="assets/images/ar-datacenter-vl-jahrestagung2024.gif" alt="AR data center at Virtuelle Lebenswelten Jahrestagung 2024" title="AR data center at Virtuelle Lebenswelten Jahrestagung 2024" width="49%"/><a href="https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1" title="File, empty"><img src="assets/images/file_empty.gif" alt="File, empty" width="49%"/></a>
-=======
 <img src="assets/images/ar-datacenter-vl-jahrestagung2024.gif" alt="AR data center at Virtuelle Lebenswelten Jahrestagung 2024 (photo by Manischa Eichwalder)" title="AR data center at Virtuelle Lebenswelten Jahrestagung 2024 (photo by Manischa Eichwalder)" width="49%"/><a href="https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1" title="File, empty"><img src="assets/images/file_empty.gif" alt="File, empty" width="49%"/></a>
->>>>>>> 10b8a89 (Added AR datacenter at VL Jahrestagung.)
 
 <img src="assets/images/ar-datacenter-easst4s2024.gif" alt="AR data center at EASST74S 2024" title="AR data center at EASST/4S 2024" width="49%"/><a href="https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024" title="What fits in a file? exhibition"><img src="assets/images/what-fits-in-a-file.gif" alt="What fits in a file? exhibition" width="49%"/></a>
 
