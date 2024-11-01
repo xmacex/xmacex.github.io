@@ -88,7 +88,6 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ### 2022 to 2024 at Ruhr University Bochum
 
-- Programmieren für Medienwissenschaftler*innen
 - Software and the sonic subconsciousness of the digital
 - Programmieren für Medienwissenschaftler*innen
 - Nachhaltigkeit und kritische Datenforschung
