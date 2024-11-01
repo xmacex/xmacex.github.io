@@ -16,6 +16,12 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 - Master of Science in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2022.
 - Bachelor of Science in Multidisciplinary Communication Studies, specialization in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2020.
 
+## Employment
+
+Currently at the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at Ruhr University Bochum, earlier at the Institute for Media Studies.
+
+Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Technologies in Practice](https://tip.itu.dk) group, the [ETHOS Lab](https://ethos.itu.dk) and the Digital Design department, and at University of Copenhagen department of computer science.
+
 ## Publications
 
 - Pedro Ferreira, Michael Hockenhull, Mace Ojala, Rebeca Blanco Cardozo, Matti Nelimarkka, Airi Lampinen (2024). [Nordic Perspectives on Algorithmic Systems Card Box](https://doi.org/10.1145/3698594). *ACM Interactions* 31(6).
