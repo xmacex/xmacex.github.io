@@ -24,9 +24,10 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Publications
 
+- Rachel Douglas-Jones, Baki Cakici, Marisa Leavitt Cohn, Simy Kaur Gahoonia, Mace Ojala,  Cæcilie Sloth Laursen (2024). [Spaceships and Poetry: Enlivening the Lab as a Site of Feminist Critical Pedagogy](https://doi.org/10.17351/ests2023.1915). *Engaging Science, Technology, and Society* 10(1-2).
 - Pedro Ferreira, Michael Hockenhull, Mace Ojala, Rebeca Blanco Cardozo, Matti Nelimarkka, Airi Lampinen (2024). [Nordic Perspectives on Algorithmic Systems Card Box](https://doi.org/10.1145/3698594). *ACM Interactions* 31(6).
 - File, empty (2024). In Early Career Forum des SFB 1567 (ed.) [*Vokabular des Virtuellen. Ein situiertes Lexicon*](https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1). transcript Verlag.
-- RUSTlab, Katrin Amelang, Ryoko Asai, Leman Çelik,Ruth Eggel, Olga Galanova, Stefan Laser, Mace Ojala, Fabian Pittroff, Estrid Sørensen and Lynn Werner  (2024). [Please Go Away... We're Reading. A Practice Approach to a Taken-for-Granted Academic Craft](https://doi.org/10.22029/oc.2024.1415 ). *On_Culture* 16.
+- RUSTlab, Katrin Amelang, Ryoko Asai, Leman Çelik, Ruth Eggel, Olga Galanova, Stefan Laser, Mace Ojala, Fabian Pittroff, Estrid Sørensen and Lynn Werner  (2024). [Please Go Away... We're Reading. A Practice Approach to a Taken-for-Granted Academic Craft](https://doi.org/10.22029/oc.2024.1415 ). *On_Culture* 16.
 - Mace Ojala, Marisa Leavitt Cohn (2024). [Software Maintenance as Materialization of Common Knowledge](https://doi.org/10.17351/ests2023.1325). *Engaging Science, Technology, and Society* 9(3).
 - Paul Heinicker, Armin Beverungen, Paul Hoffstiepel, Mace Ojala and Antonia Wulff (2023). [Medienpraxislehre in der Medienwissenschaft. Empirie und Exploration](https://doi.org/10.14361/zfmw-2023-150217). *ZfM – Zeitschrift für Medienwissenschaft*.
 - Mace Ojala (2023). Maintenance. In James Maguire and Brit Ross Winthereik (eds.) [*Reclaiming Technology: A Poetic-scientific Vocabulary*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/). Ctrl+Alt+Delete Books.
@@ -42,7 +43,6 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 ## In press
 
 - A critical code studies thing.
-- A lab pedagogy thing.
 
 ## Other formats
 
