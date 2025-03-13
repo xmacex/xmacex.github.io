@@ -46,6 +46,8 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Other formats
 
+- [Feeling the worldly data centre: an ethnography based augmented reality experience](https://drift-sink-emerge-repeat.pubpub.org/pub/jt8j21yd/release/1), with Estrid Sørensen, Jens Fahrenbacher, Sandra Abels and Stefan Laser. In *Drift. Sink. Emerge. Repeat* exhibition catalogue.
+- Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at STS-Hub 2025, Berlin.
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at Virtuelle Lebenswelten Jahrestagung 2024, Bochum.
 - Augmented Reality data center, with Estrid Sørensen, Sandra Abels and Stefan Laser. An Augmented Reality experience at EASST/4S 2024, Amsterdam.
 - [Transforming data practices in the humanities: virtual research environments revisited](https://www.easst4s2024.net/programme/#14335). Panel at EASST/4S in Amsterdam (2024).
@@ -57,6 +59,8 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 - DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). [*Breaking and making code poems*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/) (2022).
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020, EASST 2022 and EASST/4S 2024.
+
+<img src="assets/images/ar-datacenter-stshub2025.gif" alt="AR data center at STS-Hub 2025 (photo by Stefan Laser)" title="AR data center at STS-Hub 2025 (photo by Stefan Laser)" width="49%"/>
 
 <img src="assets/images/ar-datacenter-vl-jahrestagung2024.gif" alt="AR data center at Virtuelle Lebenswelten Jahrestagung 2024 (photo by Manischa Eichwalder)" title="AR data center at Virtuelle Lebenswelten Jahrestagung 2024 (photo by Manischa Eichwalder)" width="49%"/><a href="https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1" title="File, empty"><img src="assets/images/file_empty.gif" alt="File, empty" width="49%"/></a>
 
