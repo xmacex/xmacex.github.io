@@ -24,6 +24,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Publications
 
+- Mace Ojala, Estrid Sørensen, Jens Fahrenbacher, Sandra Abels and Stefan Laser (2025). [Feeling the worldly data centre: an ethnography based augmented reality experience](https://drift-sink-emerge-repeat.pubpub.org/pub/jt8j21yd/release/1). In *Drift. Sink. Emerge. Repeat* exhibition catalogue. In *Drift. Sink. Emerge. Repeat* exhibition catalogue.
 - Rachel Douglas-Jones, Baki Cakici, Marisa Leavitt Cohn, Simy Kaur Gahoonia, Mace Ojala,  Cæcilie Sloth Laursen (2024). [Spaceships and Poetry: Enlivening the Lab as a Site of Feminist Critical Pedagogy](https://doi.org/10.17351/ests2023.1915). *Engaging Science, Technology, and Society* 10(1-2).
 - Pedro Ferreira, Michael Hockenhull, Mace Ojala, Rebeca Blanco Cardozo, Matti Nelimarkka, Airi Lampinen (2024). [Nordic Perspectives on Algorithmic Systems Card Box](https://doi.org/10.1145/3698594). *ACM Interactions* 31(6).
 - File, empty (2024). In Early Career Forum des SFB 1567 (ed.) [*Vokabular des Virtuellen. Ein situiertes Lexicon*](https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1). transcript Verlag.
@@ -46,7 +47,6 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Other formats
 
-- [Feeling the worldly data centre: an ethnography based augmented reality experience](https://drift-sink-emerge-repeat.pubpub.org/pub/jt8j21yd/release/1), with Estrid Sørensen, Jens Fahrenbacher, Sandra Abels and Stefan Laser. In *Drift. Sink. Emerge. Repeat* exhibition catalogue.
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at STS-Hub 2025, Berlin.
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at Virtuelle Lebenswelten Jahrestagung 2024, Bochum.
 - Augmented Reality data center, with Estrid Sørensen, Sandra Abels and Stefan Laser. An Augmented Reality experience at EASST/4S 2024, Amsterdam.
