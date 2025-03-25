@@ -88,7 +88,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Projects
 
-I've worked on a bunch of projects (haven't we all?), such as [GIFT](https://gifting.digital) which is a Horizon 2020 funded design project for museums, [Data as Relation](https://dar.itu.dk) about well, what the name says, [Mapping a Colony](http://mappingacolony.org) exploring the colonial relations between the US Virgin Islands and Denmark, and importantly research into software maintenance with Marisa Cohn.
+I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswissen](https://medienpraxiswissen.ruhr-uni-bochum.de/), [GIFT](https://gifting.digital) which was a Horizon 2020 funded design project for museums, [Data as Relation](https://dar.itu.dk) about well, what the name says, [Mapping a Colony](http://mappingacolony.org) exploring the colonial relations between the US Virgin Islands and Denmark, and importantly research into software maintenance with Marisa Cohn.
 
 ## Teaching
 
