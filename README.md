@@ -47,6 +47,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Other formats
 
+- Network thinking and Gephi workshop at Institute of Cultural Anthropology and European Ethnology, Goethe University, Frankfurt (2025).
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at STS-Hub 2025, Berlin.
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at Virtuelle Lebenswelten Jahrestagung 2024, Bochum.
 - Augmented Reality data center, with Estrid Sørensen, Sandra Abels and Stefan Laser. An Augmented Reality experience at EASST/4S 2024, Amsterdam.
