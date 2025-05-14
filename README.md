@@ -95,21 +95,18 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 
 ## Teaching
 
-### Winter 2024/2025 at Ruhr University Bochum
+### 2022 to 2025 at Ruhr University Bochum
 
 - Digitale Methoden und kritische Datenforschung
+- Software and the sonic subconsciousness of the digital
+- Programmieren für Medienwissenschaftler*innen
+- Nachhaltigkeit und kritische Datenforschung
 
 ### Summer 2024 at Paderborn University
 
 - Let's make pixels, algos and interactions
 
-### 2022 to 2024 at Ruhr University Bochum
-
-- Software and the sonic subconsciousness of the digital
-- Programmieren für Medienwissenschaftler*innen
-- Nachhaltigkeit und kritische Datenforschung
-
-### 2021 to 2023 at University of Klagenfurt
+### 2021 to 2025 at University of Klagenfurt
 
 A data sprint for PhD students.
 
