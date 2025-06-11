@@ -77,6 +77,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## A selection of talks
 
+- Talks like an object, walks like an assemblage. Let's talk about the PDF. STS Italia, Milano, 2025.
 - If we disassemble our PDF files, will we find our hopes and dreams inside? Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024.
 - Machine Listening and Human Listening, with Marja Ahti. Blaues Rauschen, Bochum, 2024.
 - On Becoming an Infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
