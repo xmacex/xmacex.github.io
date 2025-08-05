@@ -77,6 +77,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## A selection of talks
 
+- Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. RUSTlab lecture serie, Bochum, 2025.
 - Talks like an object, walks like an assemblage. Let's talk about the PDF. STS Italia, Milano, 2025.
 - If we disassemble our PDF files, will we find our hopes and dreams inside? Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024.
 - Machine Listening and Human Listening, with Marja Ahti. Blaues Rauschen, Bochum, 2024.
@@ -86,7 +87,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 - Blood, kin and code. Capturing social media data from Copenhagen. Big Data in Communication Research: A contextual turn? – An IAMCR pre-conference. with Qiuyu Jiang and Rachel Douglas-Jones, Beijing, 2022.
 - Maintain-ability. On life alongside software. DASTS, Aarhus, 2022.
 - Life alongside code. Processing Community Day, Aarhus, 2021.
-- Experiencing collective accounts of “touch”. Analyzing software maintainers just speak. RUST Lab lecture serie, Bochum, 2020.
+- Experiencing collective accounts of “touch”. Analyzing software maintainers just speak. RUSTlab lecture serie, Bochum, 2020.
 - Software maintenance as materialization of common knowledge. EASST/4S, Prague, 2020.
 - "As is". Patterns in Resistance, Copenhagen, 2018.
 
