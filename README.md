@@ -49,6 +49,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Other formats
 
+- Background music for Helene Seewald's [Tabula Cebetis in VR. Das Greifen nach der Virtualität eines Kunstwerks](https://www.virtuelle-lebenswelten.de/blog-post/virtuelles-objekt-des-monats-tabula-cebetis-in-vr), 2025.
 - Network thinking and Gephi workshop at Institute of Cultural Anthropology and European Ethnology, Goethe University, Frankfurt (2025).
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at STS-Hub 2025, Berlin.
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at Virtuelle Lebenswelten Jahrestagung 2024, Bochum.
