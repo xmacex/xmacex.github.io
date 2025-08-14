@@ -98,11 +98,12 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 
 ## Teaching
 
-### 2022 to 2025 at Ruhr University Bochum
+### 2022 to 2026 at Ruhr University Bochum
 
+- Digitale Choreographien
 - Digitale Methoden und kritische Datenforschung
 - Software and the sonic subconsciousness of the digital
-- Programmieren für Medienwissenschaftler*innen
+- Programmieren für Medienwissenschaftler\*innen
 - Nachhaltigkeit und kritische Datenforschung
 
 ### Summer 2024 at Paderborn University
