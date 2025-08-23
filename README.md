@@ -46,6 +46,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 - A critical code studies thing.
 - A virtual office thing.
 - A reference management software thing.
+- A lab pedagogy thing.
 
 ## Other formats
 
