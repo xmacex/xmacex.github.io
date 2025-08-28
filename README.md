@@ -50,7 +50,8 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Other formats
 
-- Background music for Helene Seewald's [Tabula Cebetis in VR. Das Greifen nach der Virtualität eines Kunstwerks](https://www.virtuelle-lebenswelten.de/blog-post/virtuelles-objekt-des-monats-tabula-cebetis-in-vr), 2025.
+- [Computer Care Day](https://www.virtuelle-lebenswelten.de/blog-post/computer-care-day-26-08-2025). A workshop at Ruhr University Bochum (2025).
+- Background music for Helene Seewald's [Tabula Cebetis in VR. Das Greifen nach der Virtualität eines Kunstwerks](https://www.virtuelle-lebenswelten.de/blog-post/virtuelles-objekt-des-monats-tabula-cebetis-in-vr) (2025).
 - Network thinking and Gephi workshop at Institute of Cultural Anthropology and European Ethnology, Goethe University, Frankfurt (2025).
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at STS-Hub 2025, Berlin.
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at Virtuelle Lebenswelten Jahrestagung 2024, Bochum.
@@ -65,7 +66,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020, EASST 2022 and EASST/4S 2024.
 
-<img src="assets/images/ar-datacenter-stshub2025.gif" alt="AR data center at STS-Hub 2025 (photo by Stefan Laser)" title="AR data center at STS-Hub 2025 (photo by Stefan Laser)" width="49%"/>
+<img src="assets/images/computer_care_day.gif" alt="Computer Care Day workshop" title="Computer Care Day workshop" width="49%"/><img src="assets/images/ar-datacenter-stshub2025.gif" alt="AR data center at STS-Hub 2025 (photo by Stefan Laser)" title="AR data center at STS-Hub 2025 (photo by Stefan Laser)" width="49%"/>
 
 <img src="assets/images/ar-datacenter-vl-jahrestagung2024.gif" alt="AR data center at Virtuelle Lebenswelten Jahrestagung 2024 (photo by Manischa Eichwalder)" title="AR data center at Virtuelle Lebenswelten Jahrestagung 2024 (photo by Manischa Eichwalder)" width="49%"/><a href="https://www.transcript-verlag.de/978-3-8376-7207-7/vokabular-des-virtuellen/?number=978-3-8394-7207-1" title="File, empty"><img src="assets/images/file_empty.gif" alt="File, empty" width="49%"/></a>
 
@@ -79,6 +80,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## A selection of talks
 
+- Care, the computer, and us in Virtual Lifeworlds. Computer Care Day, Bochum, 2025.
 - Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. RUSTlab lecture serie, Bochum, 2025.
 - Talks like an object, walks like an assemblage. Let's talk about the PDF. STS Italia, Milano, 2025.
 - If we disassemble our PDF files, will we find our hopes and dreams inside? Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024.
