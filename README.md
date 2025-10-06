@@ -51,6 +51,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Other formats
 
+- "Münster writing" in the spirit of Henriksen, Meldgaard Kjær et al. 2021. A workshop at RUSTlab retreat, Münster (2025).
 - [Computer Care Day](https://www.virtuelle-lebenswelten.de/blog-post/computer-care-day-26-08-2025). A workshop at Ruhr University Bochum (2025).
 - Background music for Helene Seewald's [Tabula Cebetis in VR. Das Greifen nach der Virtualität eines Kunstwerks](https://www.virtuelle-lebenswelten.de/blog-post/virtuelles-objekt-des-monats-tabula-cebetis-in-vr) (2025).
 - Network thinking and Gephi workshop at Institute of Cultural Anthropology and European Ethnology, Goethe University, Frankfurt (2025).
@@ -66,6 +67,8 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 - DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). [*Breaking and making code poems*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/) (2022).
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020, EASST 2022 and EASST/4S 2024.
+
+<img src="assets/images/münster-writing.gif" alt="Münster writing workshop" title="Münster writing workshop" width="49%"/>
 
 <a href="https://www.virtuelle-lebenswelten.de/blog-post/computer-care-day-26-08-2025" title="Computer Care Day"><img src="assets/images/computer_care_day.gif" alt="Computer Care Day workshop" title="Computer Care Day workshop" width="49%"/></a> <img src="assets/images/ar-datacenter-stshub2025.gif" alt="AR data center at STS-Hub 2025 (photo by Stefan Laser)" title="AR data center at STS-Hub 2025 (photo by Stefan Laser)" width="49%"/>
 
