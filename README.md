@@ -124,3 +124,5 @@ A data sprint for PhD students.
 ### 2017 to 2022 in Copenhagen
 
 I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, data analysis, controversy mapping, web design, sociology, cyberfeminism(s) and programming at University of Copenhagen (KU), IT University of Copenhagen (ITU), as well as at the The Royal Danish Academy of Fine Arts.
+
+I am proud to say that my first professional gig in academia in 2014 was at the European Humanities University of Minsk, in exile in Vilnius.
