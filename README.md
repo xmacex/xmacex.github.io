@@ -84,7 +84,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## A selection of talks
 
-- »If it looks like a signature…« A Meditation on Bodies and PDFs, with Tilman Richter. Medien|Denken. Bochum, 2025.
+- »If it looks like a signature…« A Meditation on Bodies and PDFs, with Tilman Richter. Medien\|Denken. Bochum, 2025.
 - Care, the computer, and us in Virtual Lifeworlds. Computer Care Day, Bochum, 2025.
 - Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. RUSTlab lecture serie, Bochum, 2025.
 - Talks like an object, walks like an assemblage. Let's talk about the PDF. STS Italia, Milano, 2025.
