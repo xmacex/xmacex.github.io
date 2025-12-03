@@ -120,10 +120,27 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 
 ### 2021 to 2025 at University of Klagenfurt
 
-A data sprint for PhD students.
+A data sprint for PhD, Master and Bachelor students.
 
-### 2017 to 2022 in Copenhagen
+### 2017 to 2022 at University of Copenhagen
 
-I’ve taught Philosophy of science, science and technology studies, data visualization, statistics, creative programming, data analysis, controversy mapping, web design, sociology, cyberfeminism(s) and programming at University of Copenhagen (KU), IT University of Copenhagen (ITU), as well as at the The Royal Danish Academy of Fine Arts.
+- Advanced Empirical Methods and Theory of Science
+- Design Project
+- Analysis, Design and Regulation of IT Infrastructure
+
+### 2017 to 2022 at IT University of Copenhagen
+
+- Data Design
+- Computational Literacies
+- Navigating Complexity
+- Network Society
+- Programming and Data Processing
+- Big Data Analysis
+- Frameworks and Architectures for the Web
+- Digital Management, Governance and Accountability
+
+### 2019 at The Royal Academy of Fine Arts, Copenhagen
+
+- Patterns of Resistance, with Laboratory of Aesthetics and Ecology.
 
 I am proud to say that my first professional gig in academia in 2014 was at the European Humanities University of Minsk, in exile in Vilnius.
