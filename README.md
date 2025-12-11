@@ -84,14 +84,15 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## A selection of talks
 
-- »If it looks like a signature…« A Meditation on Bodies and PDFs, with Tilman Richter. Medien\|Denken. Bochum, 2025.
-- Care, the computer, and us in Virtual Lifeworlds. Computer Care Day, Bochum, 2025.
+- Software maintenance as materialization of common knowledge. Maintenance and Philosophy SIG of Technology of The Society for Philosophy and Technology, online, 2025.
+- »If it looks like a signature…« A meditation on bodies and PDFs, with Tilman Richter. Medien\|Denken. Bochum, 2025.
+- Care, the computer, and us in virtual lifeworlds. Computer Care Day, Bochum, 2025.
 - Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. RUSTlab lecture serie, Bochum, 2025.
 - Talks like an object, walks like an assemblage. Let's talk about the PDF. STS Italia, Milano, 2025.
 - If we disassemble our PDF files, will we find our hopes and dreams inside? Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024.
-- Machine Listening and Human Listening, with Marja Ahti. Blaues Rauschen, Bochum, 2024.
-- On Becoming an Infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
-- Testing to Circulate. Addressing the Epistemic Gaps of Software Testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023.
+- Machine listening and human listening, with Marja Ahti. Blaues Rauschen, Bochum, 2024.
+- On becoming an infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
+- Testing to circulate. Addressing the epistemic gaps of software testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023.
 - Feminist ethos under data production pressures. EASST, Madrid, 2022.
 - Blood, kin and code. Capturing social media data from Copenhagen. Big Data in Communication Research: A contextual turn? – An IAMCR pre-conference. with Qiuyu Jiang and Rachel Douglas-Jones, Beijing, 2022.
 - Maintain-ability. On life alongside software. DASTS, Aarhus, 2022.
