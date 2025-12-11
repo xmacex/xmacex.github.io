@@ -84,7 +84,7 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## A selection of talks
 
-- Software maintenance as materialization of common knowledge. Maintenance and Philosophy SIG of Technology of The Society for Philosophy and Technology, online, 2025.
+- Software maintenance as materialization of common knowledge. Maintenance and Philosophy SIG of The Society for Philosophy and Technology, online, 2025.
 - »If it looks like a signature…« A meditation on bodies and PDFs, with Tilman Richter. Medien\|Denken. Bochum, 2025.
 - Care, the computer, and us in virtual lifeworlds. Computer Care Day, Bochum, 2025.
 - Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. RUSTlab lecture serie, Bochum, 2025.
