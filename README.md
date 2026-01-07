@@ -22,7 +22,7 @@ Currently at the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (Df
 
 Between 2016 and 2022 I was at [IT University of Copenhagen](https://itu.dk) mostly in the [Technologies in Practice](https://tip.itu.dk) group, the [ETHOS Lab](https://ethos.itu.dk) and the Digital Design department, and at University of Copenhagen department of computer science.
 
-I am proud to say that my first professional gig in academia in 2014 was at the European Humanities University of Minsk, in exile in Vilnius.
+I am proud to say that my first professional gig in academia in 2014 was at the [European Humanities University](https://en.ehuniversity.lt/) of Minsk, in exile in Vilnius.
 
 ## Publications
 
