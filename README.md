@@ -18,9 +18,11 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Employment
 
-Currently at the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at Ruhr University Bochum, earlier at the Institute for Media Studies.
+Currently at the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at [Ruhr University Bochum](https://https://www.ruhr-uni-bochum.de/), earlier at the Institute for Media Studies.
 
-Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Technologies in Practice](https://tip.itu.dk) group, the [ETHOS Lab](https://ethos.itu.dk) and the Digital Design department, and at University of Copenhagen department of computer science.
+Between 2016 and 2022 I was at [IT University of Copenhagen](https://itu.dk) mostly in the [Technologies in Practice](https://tip.itu.dk) group, the [ETHOS Lab](https://ethos.itu.dk) and the Digital Design department, and at University of Copenhagen department of computer science.
+
+I am proud to say that my first professional gig in academia in 2014 was at the European Humanities University of Minsk, in exile in Vilnius.
 
 ## Publications
 
@@ -115,13 +117,13 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 - Programmieren für Medienwissenschaftler\*innen
 - Nachhaltigkeit und kritische Datenforschung
 
-### Summer 2024 at Paderborn University
+### 2024 to 2026 at Paderborn University
 
 - Let's make pixels, algos and interactions
 
 ### 2021 to 2025 at University of Klagenfurt
 
-A data sprint for PhD, Master and Bachelor students.
+- A data sprint for PhD, Master and Bachelor students.
 
 ### 2017 to 2022 at University of Copenhagen
 
@@ -143,5 +145,3 @@ A data sprint for PhD, Master and Bachelor students.
 ### 2019 at The Royal Academy of Fine Arts, Copenhagen
 
 - Patterns of Resistance, with Laboratory of Aesthetics and Ecology.
-
-I am proud to say that my first professional gig in academia in 2014 was at the European Humanities University of Minsk, in exile in Vilnius.
