@@ -24,6 +24,9 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 
 ## Publications
 
+- Leman Çelik, Mace Ojala, Fabian Pittroff (2026). Literaturverwaltung. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
+- Raphaela Gilles, Mace Ojala, Carmen Reidelbach, Roman Smirnov. (2026). Datenausstellung. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
+- Mace Ojala, Leman Çelik (2026). Büro. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
 - Mace Ojala, Estrid Sørensen, Jens Fahrenbacher, Sandra Abels and Stefan Laser (2025). [Feeling the worldly data centre: an ethnography based augmented reality experience](https://drift-sink-emerge-repeat.pubpub.org/pub/jt8j21yd/release/1). In *Drift. Sink. Emerge. Repeat* exhibition catalogue.
 - Rachel Douglas-Jones, Baki Cakici, Marisa Leavitt Cohn, Simy Kaur Gahoonia, Mace Ojala,  Cæcilie Sloth Laursen (2024). [Spaceships and Poetry: Enlivening the Lab as a Site of Feminist Critical Pedagogy](https://doi.org/10.17351/ests2023.1915). *Engaging Science, Technology, and Society* 10(1-2).
 - Pedro Ferreira, Michael Hockenhull, Mace Ojala, Rebeca Blanco Cardozo, Matti Nelimarkka, Airi Lampinen (2024). [Nordic Perspectives on Algorithmic Systems Card Box](https://doi.org/10.1145/3698594). *ACM Interactions* 31(6).
@@ -44,9 +47,6 @@ Between 2016 and 2022 I was at IT University of Copenhagen mostly in the [Techno
 ## In press
 
 - A critical code studies thing.
-- A virtual office thing.
-- A reference management software thing.
-- A data exhibition thing.
 - A lab pedagogy thing.
 
 ## Other formats
