@@ -48,6 +48,7 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 
 ## In press
 
+- An augmented reality design thing.
 - A critical code studies thing.
 - A lab pedagogy thing.
 
