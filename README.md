@@ -65,7 +65,7 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 - Augmented Reality data center, with Estrid Sørensen, Sandra Abels and Stefan Laser. An Augmented Reality experience at EASST/4S 2024, Amsterdam.
 - [Transforming data practices in the humanities: virtual research environments revisited](https://www.easst4s2024.net/programme/#14335). Panel at EASST/4S in Amsterdam (2024).
 - [What fits in a file?](https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024) An exhibition at Ruhr University Bochum (2024).
-- What to do about the internet as an early career academic. A series of three BarCamp discussions.
+- What to do about the internet as an early career academic?. A series of three BarCamp discussions (2024).
 - [Software and the sonic subconscious of the digital](https://open.ruhr-uni-bochum.de/en/lernangebot/software-and-sonic-subconscious-digital-oer). An Open Educational Resource (OER) on software studies and sound studies (2024).
 - [Creative programming in the wake of Modernism](https://open.ruhr-uni-bochum.de/en/lernangebot/creative-programming-wake-modernism-oer). An Open Educational Resource (OER) on creative programming with p5.js (2024).
 - [Database of Byzantine Book Epigrams](https://doi.org/10.5281/zenodo.7682523), with the DBBE team at UGent and Ghent Centre for Digital Humanities (2023)
