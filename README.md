@@ -26,6 +26,7 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 
 ## Publications
 
+- [Reading Code Aloud](https://dhq.digitalhumanities.org/vol/20/1/000849/000849.html) (2026). In conversation with Katrine Meldgaard Kjær. *Digital Humanities Quarterly* 20(1).
 - Literaturverwaltung (2026). With Leman Çelik and Fabian Pittroff. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
 - Datenausstellung (2026). With Raphaela Gilles, Carmen Reidelbach and Roman Smirnov. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
 - Büro (2026). With Leman Çelik. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
@@ -51,7 +52,6 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 ## In press
 
 - An augmented reality design thing.
-- A critical code studies thing.
 - A lab pedagogy thing.
 
 ## Other formats
