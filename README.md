@@ -7,7 +7,7 @@ Mace Ojala (nothing quite like writing about yourself in third person on the Int
 When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and might never exist again.
 
 <p align="center">
-    <img src="assets/images/drone.gif" />
+    <img src="assets/images/drone.gif" width="100%" />
 </p>
 
 ## Education
@@ -152,3 +152,7 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 ### 2019 at The Royal Academy of Fine Arts, Copenhagen
 
 - Patterns of Resistance, with Laboratory of Aesthetics and Ecology.
+
+<p align="center">
+    <img src="assets/images/nudelsalat.gif"/>
+</p>
