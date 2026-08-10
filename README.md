@@ -2,7 +2,7 @@
 
 ## Bio
 
-Mace Ojala (nothing quite like writing about yourself in third person on the Internet) is a Software Studies scholar and cares about computer software as culture. Where does it come from, who maintains it, what is it, are there many softwares or only one, what’s fun about it… or is there anything special about software at all? To engage these questions Mace draws from science and technology studies, Philosophy and praxis.
+Mace Ojala is a Software Studies scholar and cares about computer software as culture. Where does it come from, who maintains it, what is it, are there many softwares or only one, what’s fun about it… or is there anything special about software at all? To engage these questions Mace draws from science and technology studies, Philosophy and praxis.
 
 When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and might never exist again.
 
@@ -129,9 +129,9 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 
 - Let's make pixels, algos and interactions
 
-### 2021 to 2025 at University of Klagenfurt
+### 2021 to 2026 at University of Klagenfurt
 
-- A data sprint for PhD, Master and Bachelor students.
+- A data sprint with PhD, Master and Bachelor students. In 2025 we made an atlas of Klagenfurt, and <a href="https://www.ii.at/cfp2026/">in 2026 we worked with tweets of the author and artist Ianina Ilitcheva</a> in co-operated with the Karl-Popper Archiv.
 
 ### 2017 to 2022 at University of Copenhagen
 
