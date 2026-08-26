@@ -58,8 +58,8 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 ## Other formats
 
 - [HaPoP 7. What is critical about programming?](https://hapoc.org/hapop-7/). With Pierre Depaz and Yannick Nepomuk Fritz. The 7th Symposium on the Commission for the History and Philosophy of Computing (HaPoC), Basel (2026).
-- [Before Ruins](https://stsing.org/before-ruins). With RUSTlab. The 2026 conference of stsing e.V. (2026).
-- "Münster writing" in the spirit of Henriksen, Meldgaard Kjær et al. 2021. A workshop at RUSTlab retreat, Münster (2025).
+- [Before Ruins](https://stsing.org/before-ruins). With RUSTlab. The 2026 conference of stsing e.V, Bochum (2026).
+- "Münster writing" in the spirit of [Henriksen, Meldgaard Kjær et al. 2021](https://doi.org/10.1111/gwao.12782). A workshop at RUSTlab retreat, Münster (2025).
 - [Computer Care Day](https://www.virtuelle-lebenswelten.de/blog-post/computer-care-day-26-08-2025). A workshop at Ruhr University Bochum (2025).
 - Background music for Helene Seewald's [Tabula Cebetis in VR. Das Greifen nach der Virtualität eines Kunstwerks](https://www.virtuelle-lebenswelten.de/blog-post/virtuelles-objekt-des-monats-tabula-cebetis-in-vr) (2025).
 - Network thinking and Gephi workshop at Institute of Cultural Anthropology and European Ethnology, Goethe University, Frankfurt (2025).
