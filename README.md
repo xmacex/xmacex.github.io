@@ -7,7 +7,7 @@ Mace Ojala is a Software Studies scholar and cares about computer software as cu
 When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and might never exist again.
 
 <p align="center">
-    <img src="_resources/drone.gif" width="100%" />
+    <img src="assets/drone.gif" width="100%" />
 </p>
 
 ## Education
