@@ -26,6 +26,7 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 
 ## Publications
 
+- [How to Know a Data Centre without Leaving your Cosmology at the Door?](https://www.transcript-open.de/doi/10.14361/9783839478462-183#read-container) (2026). With Sandra Abels, Jens Fehrenbacher and Estrid Sørensen. In *Infrastructures of (Non-)Knowledge. Virtuality and Epistemic Transformations*. transcript Verlag.
 - [Reading Code Aloud](https://doi.org/10.63744/ae5a4saj2fhh) (2026). In conversation with Katrine Meldgaard Kjær. *Digital Humanities Quarterly* 20(1).
 - Literaturverwaltung (2026). With Leman Çelik and Fabian Pittroff. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
 - Datenausstellung (2026). With Raphaela Gilles, Carmen Reidelbach and Roman Smirnov. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
@@ -51,7 +52,6 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 
 ## In press
 
-- An augmented reality design thing.
 - A software maintenance thing.
 - A lab pedagogy thing.
 
