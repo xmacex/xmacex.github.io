@@ -4,7 +4,7 @@
 
 Mace Ojala is a Software Studies scholar and cares about computer software as culture. Where does it come from, who maintains it, what is it, are there many softwares or only one, what’s fun about it… or is there anything special about software at all? To engage these questions Mace draws from science and technology studies, media studies, Philosophy and praxis.
 
-When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and might never exist again.
+When not thinking about those kinds of things, Mace likes to read academic literature diversely, ride the bicycle and listen attentively to synthesizers making sounds which have never existed before and will never exist again.
 
 <p align="center">
     <img src="assets/drone.gif" width="100%" />
@@ -18,19 +18,23 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Employment
 
-Currently at the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at [Ruhr University Bochum](https://https://www.ruhr-uni-bochum.de/), earlier at the Institute for Media Studies.
+Currently I am at the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at [Ruhr University Bochum](https://https://www.ruhr-uni-bochum.de/), earlier at the [Institut für Medienwissenschaft](https://ifm.rub.de).
 
 Between 2016 and 2022 I was at [IT University of Copenhagen](https://itu.dk) mostly in the [Technologies in Practice](https://tip.itu.dk) group, the [ETHOS Lab](https://ethos.itu.dk) and the Digital Design department, and at University of Copenhagen department of computer science.
+
+I've worked on a bunch of projects (haven't we all?), such as [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de), [medienpraxiswissen](https://medienpraxiswissen.ruhr-uni-bochum.de/), [GIFT. Meaningful Personalization of Hybrid Virtual Museum Experiences Through Gifting and Appropriation](https://doi.org/10.3030/727040) which was a Horizon 2020 funded design and action research project for museums, [Data as Relation](https://dar.itu.dk) was about well, what the name says, [Mapping a Colony](https://ethos.itu.dk/research-projects/mapping-colonial-copenhagen/) exploring the colonial relations between Denmark and what are now called US Virgin Islands, and importantly research into software maintenance with Marisa Cohn.
 
 I am proud to say that my first professional gig in academia in 2014 was at the [European Humanities University](https://en.ehuniversity.lt/) of Minsk, in exile in Vilnius.
 
 ## Publications
 
+Here is my bibliography of academic publications.
+
 - [How to Know a Data Centre without Leaving your Cosmology at the Door?](https://www.transcript-open.de/doi/10.14361/9783839478462-183#read-container) (2026). With Sandra Abels, Jens Fehrenbacher and Estrid Sørensen. In *Infrastructures of (Non-)Knowledge. Virtuality and Epistemic Transformations*. transcript Verlag.
-- <details><summary><a href="https://doi.org/10.63744/ae5a4saj2fhh">Reading Code Aloud</a> in conversation with Katrine Meldgaard Kjær. <em>Digital Humanities Quarterly</em> 20(1).<a href="https://dhq-static.digitalhumanities.org/pdf/000849.pdf">📃</a></summary><blockquote>In this article, I present reading computer source code aloud, and reflect on it together in dialogue, as a method which offers new forms of engagement with code and programming. With my peer discussion partner, we experimented with this methodology by exchanging recorded audio messages in a research project involving computational data-analysis. We discovered that abandoning the screen allowed us to de-explain, de-familiarize and de-contextualize code we had programmed, and negotiate new, shared insight of it as a cultural and situated object through re-explanation, re-familiarization, and re-contextualization of our experience of code.</blockquote></details>
-- Literaturverwaltung (2026). With Leman Çelik and Fabian Pittroff. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
-- Datenausstellung (2026). With Raphaela Gilles, Carmen Reidelbach and Roman Smirnov. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
-- Büro (2026). With Leman Çelik. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
+- [Reading Code Aloud](https://doi.org/10.63744/ae5a4saj2fhh) (2026). In conversation with Katrine Meldgaard Kjær. *Digital Humanities Quarterly* 20(1).
+- [Büro](https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839400340-019) (2026). With Leman Çelik. In *Virtuelle Universität. Geistes- und gesellschaftswissenschaftliche Zugänge*. transcript Verlag.
+- [Datenausstellung](https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839400340-021) (2026). With Raphaela Gilles, Carmen Reidelbach and Roman Smirnov. In *Virtuelle Universität. Geistes- und gesellschaftswissenschaftliche Zugänge*. transcript Verlag.
+- [Literaturverwaltung](https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839400340-039) (2026). With Leman Çelik and Fabian Pittroff. In *Virtuelle Universität. Geistes- und gesellschaftswissenschaftliche Zugänge*. transcript Verlag.
 - [Feeling the worldly data centre: an ethnography based augmented reality experience](https://drift-sink-emerge-repeat.pubpub.org/pub/jt8j21yd/release/1) (2025). With Estrid Sørensen, Jens Fahrenbacher, Sandra Abels and Stefan Laser. In *Drift. Sink. Emerge. Repeat* exhibition catalogue.
 - [Nordic Perspectives on Algorithmic Systems: Cards as a Playful Intervention into the Crisis of Imagination](https://doi.org/10.1145/3744169.3744190) (2025). With Rebeca Blanco Cardozo, Pedro Ferreira, Matti Nelimarkka, Jesse Haapoja, Michael Hockenhull, Juho Pääkkönen, Marisa Leavitt Cohn, Barry Brown, Thomas Olsson, Asko Lehmuskallio, Emilie Mørch Groth and Airi Lampinen. In *AAR '25: Proceedings of the sixth decennial Aarhus conference: Computing X Crisis*.
 - [Spaceships and Poetry: Enlivening the Lab as a Site of Feminist Critical Pedagogy](https://doi.org/10.17351/ests2023.1915) (2024). With Rachel Douglas-Jones, Baki Cakici, Marisa Leavitt Cohn, Simy Kaur Gahoonia and Cæcilie Sloth Laursen. *Engaging Science, Technology, and Society* 10(1-2).
@@ -52,10 +56,14 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 
 ## In press
 
+The following publications are accepted for publication, and forthcoming.
+
 - A software maintenance thing.
 - A lab pedagogy thing.
 
 ## Other formats
+
+Besides academic publications listed above, and talks and teachings listed below, I like to explore other formats. Here are some of them, ranging from computer programs to conferences to sound designs to workshops.
 
 - [HaPoP 7. What is critical about programming?](https://hapoc.org/hapop-7/). With Pierre Depaz and Yannick Nepomuk Fritz. The 7th Symposium on the Commission for the History and Philosophy of Computing (HaPoC), Basel (2026).
 - [Before Ruins](https://stsing.org/before-ruins). With RUSTlab. The 2026 conference of stsing e.V, Bochum (2026).
@@ -76,6 +84,7 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 - DROP TABLE; Code poetry, essay and algorithmic image manipulation in Marisa Leavitt Cohn, Rachel Douglas-Jones and Merethe Riggelsen Gjørding (eds.). [*Breaking and making code poems*](https://cadb.dk/produkt/reclaiming-technology-a-poetic-scientific-vocabulary-e-bog/) (2022).
 - Data Object, with Baki Cakici. A series of algorithmically generated 3D printed mementos for researchers visiting the ETHOS Lab.
 - [Hacker Cultures](https://www.buzzsprout.com/1323889/), with Paula Bialski, Andreas Bischof and Ariel Bialski. A podcast panel at EASST/4S 2020, EASST 2022 and EASST/4S 2024.
+- [Cycling for Libraries](https://fr.wikipedia.org/wiki/Cycling_for_libraries) with Jukka Pennanen and a great team. A ten-day bicycling unconference for 100 librarians and library lovers. With Jukka we are founders, and main organisers for the Copenhagen → Berlin (2011), Vilnius → Tallinn (2012) and Amsterdam → Brussels (2013) events, before leaving the project to others. This is the craziest, most amazing project I ever did (so far), and a versions of the concept has been running for fifteen years.
 
 <a href="https://stsing.org/before-ruins/" title="Before Ruins. The 2026 conference of stsing e.V."><img src="assets/stsing-before-ruins-2026.gif" alt="Before Ruins. The 2026 conference of stsing e.V." title="Before Ruins. The 2026 conference of stsing e.V." width="49%"/></a>
 <img src="assets/münster-writing.gif" alt="Münster writing workshop" title="Münster writing workshop" width="49%"/>
@@ -111,10 +120,6 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 - Experiencing collective accounts of “touch”. Analyzing software maintainers just speak. RUSTlab lecture serie, Bochum, 2020.
 - Software maintenance as materialization of common knowledge. EASST/4S, Prague, 2020.
 - "As is". Patterns in Resistance, Copenhagen, 2018.
-
-## Projects
-
-I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswissen](https://medienpraxiswissen.ruhr-uni-bochum.de/), [GIFT](https://gifting.digital) which was a Horizon 2020 funded design project for museums, [Data as Relation](https://dar.itu.dk) about well, what the name says, [Mapping a Colony](http://mappingacolony.org) exploring the colonial relations between the US Virgin Islands and Denmark, and importantly research into software maintenance with Marisa Cohn.
 
 ## Teaching
 
