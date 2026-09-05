@@ -27,7 +27,7 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 ## Publications
 
 - [How to Know a Data Centre without Leaving your Cosmology at the Door?](https://www.transcript-open.de/doi/10.14361/9783839478462-183#read-container) (2026). With Sandra Abels, Jens Fehrenbacher and Estrid Sørensen. In *Infrastructures of (Non-)Knowledge. Virtuality and Epistemic Transformations*. transcript Verlag.
-- [Reading Code Aloud](https://doi.org/10.63744/ae5a4saj2fhh) (2026). In conversation with Katrine Meldgaard Kjær. *Digital Humanities Quarterly* 20(1).
+- <details><summary><a href="https://doi.org/10.63744/ae5a4saj2fhh">Reading Code Aloud</a> in conversation with Katrine Meldgaard Kjær. <em>Digital Humanities Quarterly</em> 20(1).<a href="https://dhq-static.digitalhumanities.org/pdf/000849.pdf">📃</a></summary><blockquote>In this article, I present reading computer source code aloud, and reflect on it together in dialogue, as a method which offers new forms of engagement with code and programming. With my peer discussion partner, we experimented with this methodology by exchanging recorded audio messages in a research project involving computational data-analysis. We discovered that abandoning the screen allowed us to de-explain, de-familiarize and de-contextualize code we had programmed, and negotiate new, shared insight of it as a cultural and situated object through re-explanation, re-familiarization, and re-contextualization of our experience of code.</blockquote></details>
 - Literaturverwaltung (2026). With Leman Çelik and Fabian Pittroff. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
 - Datenausstellung (2026). With Raphaela Gilles, Carmen Reidelbach and Roman Smirnov. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
 - Büro (2026). With Leman Çelik. In [*Virtuelle Universität*](https://www.transcript-verlag.de/978-3-8376-5934-4/virtuelle-universitaet-geistes-und-gesellschaftswissenschaftliche-zugaenge/). transcript Verlag.
@@ -158,16 +158,3 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 <p align="center">
     <img src="assets/nudelsalat.gif"/>
 </p>
-
-<details><summary>title [title](file:///file/null) here</summary>
-<p>Something here
-
-> Quoted abstract would be here.
-
-DOI and [PDF download](file:///dev/null)</p>
-</details>
-
-*Ähm*
-
- - <details><summary>List item 1 with [Markdown link](file:///dev/null)</summary>More info 1 with [markdown link](http://rub.de) in title.</details>
-  - <details><summary>List item 2 with <a href="file:///dev/null">HTML link</a> in title.</summary>More info 2 with <a href="https://rub.de">HTML link</a>.</details>
