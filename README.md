@@ -160,11 +160,11 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 </p>
 
 <details><summary>title title here</summary>
-Something here
+<p>Something here
 
 > Quoted abstract would be here.
 
-DOI and [PDF download](fiile:///dev/null)
+DOI and [PDF download](fiile:///dev/null)</p>
 </details>
 
  - <details><summary>List item 1</summary>
