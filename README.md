@@ -169,5 +169,5 @@ DOI and [PDF download](file:///dev/null)</p>
 
 *Ähm*
 
- - <details><summary>List item 1</summary>More info 1 with [markdown link](http://rub.de).</details>
-  - <details><summary>List item 2</summary>More info 2 with <a href="https://rub.de">HTML link</a>.</details>
+ - <details><summary>List item 1 with [Markdown link](file:///dev/null)</summary>More info 1 with [markdown link](http://rub.de) in title.</details>
+  - <details><summary>List item 2 with <a href="file:///dev/null">HTML link</a> in title.</summary>More info 2 with <a href="https://rub.de">HTML link</a>.</details>
