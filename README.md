@@ -158,3 +158,18 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
 <p align="center">
     <img src="assets/nudelsalat.gif"/>
 </p>
+
+<details><summary>title title here</summary>
+Something here
+
+> Quoted abstract would be here.
+
+DOI and [PDF download](fiile:///dev/null)
+</details>
+
+ - <details><summary>List item 1</summary>
+ Mode info 1.
+ </details>
+  - <details><summary>List item 2</summary>
+ Mode info 2.
+ </details>
