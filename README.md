@@ -159,17 +159,15 @@ I've worked on a bunch of projects (haven't we all?), such as [medienpraxiswisse
     <img src="assets/nudelsalat.gif"/>
 </p>
 
-<details><summary>title title here</summary>
+<details><summary>title [title](file:///file/null) here</summary>
 <p>Something here
 
 > Quoted abstract would be here.
 
-DOI and [PDF download](fiile:///dev/null)</p>
+DOI and [PDF download](file:///dev/null)</p>
 </details>
 
- - <details><summary>List item 1</summary>
- Mode info 1.
- </details>
-  - <details><summary>List item 2</summary>
- Mode info 2.
- </details>
+*Ähm*
+
+ - <details><summary>List item 1</summary>More info 1 with [markdown link](http://rub.de).</details>
+  - <details><summary>List item 2</summary>More info 2 with <a href="https://rub.de">HTML link</a>.</details>
