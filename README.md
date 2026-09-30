@@ -12,7 +12,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Education
 
-- Doctor of Philosophy. Ruhr University Bochum. Started 2023 →
+- Doctor of Philosophy. Ruhr University Bochum. Started in the Virtuelle Lebenswelten (DfG SFB 1567) 2023 →
 - Master of Science in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2022.
 - Bachelor of Science in Multidisciplinary Communication Studies, specialization in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2020.
 
