@@ -30,6 +30,7 @@ I am proud to say that my first professional gig in academia in 2014 was at the 
 
 Here is my bibliography of academic publications.
 
+- [Maintain-ability: On Life Alongside Computer Software](https://doi.org/10.60923/issn.2038-3460/18405) (2026). Tecnoscienza. 17(1).
 - [How to Know a Data Centre without Leaving your Cosmology at the Door?](https://www.transcript-open.de/doi/10.14361/9783839478462-183#read-container) (2026). With Sandra Abels, Jens Fehrenbacher and Estrid Sørensen. In *Infrastructures of (Non-)Knowledge. Virtuality and Epistemic Transformations*. transcript Verlag.
 - [Reading Code Aloud](https://doi.org/10.63744/ae5a4saj2fhh) (2026). In conversation with Katrine Meldgaard Kjær. *Digital Humanities Quarterly* 20(1).
 - [Büro](https://www.transcript-verlag.de/chunk_detail_seite.php?doi=10.14361%2F9783839400340-019) (2026). With Leman Çelik. In *Virtuelle Universität. Geistes- und gesellschaftswissenschaftliche Zugänge*. transcript Verlag.
@@ -58,7 +59,6 @@ Here is my bibliography of academic publications.
 
 The following publications are accepted for publication, and forthcoming.
 
-- A software maintenance thing.
 - A lab pedagogy thing.
 
 ## Other formats
