@@ -18,7 +18,7 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Employment
 
-At the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at [Ruhr University Bochum](https://https://www.ruhr-uni-bochum.de/) 2023-2026, bofero that at the [Institut für Medienwissenschaft](https://ifm.rub.de).
+At the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at [Ruhr University Bochum](https://https://www.ruhr-uni-bochum.de/) 2023-2026, before that at the [Institut für Medienwissenschaft](https://ifm.rub.de).
 
 Between 2016 and 2022 I was at [IT University of Copenhagen](https://itu.dk) mostly in the [Technologies in Practice](https://tip.itu.dk) group and the [ETHOS Lab](https://ethos.itu.dk), the Digital Design department, the Center for Computer Games Research, and at University of Copenhagen department of computer science.
 
