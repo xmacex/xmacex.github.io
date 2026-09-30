@@ -12,17 +12,17 @@ When not thinking about those kinds of things, Mace likes to read academic liter
 
 ## Education
 
-- Doctor of Philosophy. Ruhr University Bochum, Virtuelle Lebenswelten collaborative research center (DfG SFB 1567). Started 2023 →
+- Doctor of Philosophy. Ruhr University Bochum. Started 2023 →
 - Master of Science in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2022.
 - Bachelor of Science in Multidisciplinary Communication Studies, specialization in Information Studies. Tampere University, Faculty of Information Technology and Communication Sciences. Graduated 2020.
 
 ## Employment
 
-Currently I am at the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at [Ruhr University Bochum](https://https://www.ruhr-uni-bochum.de/), earlier at the [Institut für Medienwissenschaft](https://ifm.rub.de).
+At the [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de) (DfG SFB 1567) at [Ruhr University Bochum](https://https://www.ruhr-uni-bochum.de/) 2023-2026, bofero that at the [Institut für Medienwissenschaft](https://ifm.rub.de).
 
-Between 2016 and 2022 I was at [IT University of Copenhagen](https://itu.dk) mostly in the [Technologies in Practice](https://tip.itu.dk) group, the [ETHOS Lab](https://ethos.itu.dk) and the Digital Design department, and at University of Copenhagen department of computer science.
+Between 2016 and 2022 I was at [IT University of Copenhagen](https://itu.dk) mostly in the [Technologies in Practice](https://tip.itu.dk) group and the [ETHOS Lab](https://ethos.itu.dk), the Digital Design department, the Center for Computer Games Research, and at University of Copenhagen department of computer science.
 
-I've worked on a bunch of projects (haven't we all?), such as [Virtuelle Lebenswelten](https://virtuelle-lebenswelten.de), [medienpraxiswissen](https://medienpraxiswissen.ruhr-uni-bochum.de/), [GIFT. Meaningful Personalization of Hybrid Virtual Museum Experiences Through Gifting and Appropriation](https://doi.org/10.3030/727040) which was a Horizon 2020 funded design and action research project for museums, [Data as Relation](https://dar.itu.dk) was about well, what the name says, [Mapping a Colony](https://ethos.itu.dk/research-projects/mapping-colonial-copenhagen/) exploring the colonial relations between Denmark and what are now called US Virgin Islands, and importantly research into software maintenance with Marisa Cohn.
+I've worked on a bunch of projects (haven't we all?), such as [Virtuelle Lebenswelten (DFG SFB 1567)](https://virtuelle-lebenswelten.de), [medienpraxiswissen](https://medienpraxiswissen.ruhr-uni-bochum.de/), [GIFT. Meaningful Personalization of Hybrid Virtual Museum Experiences Through Gifting and Appropriation (Horizon 2020)](https://doi.org/10.3030/727040) which was a design and action research project for museums, [Data as Relation](https://dar.itu.dk) was about well, what the name says, [Mapping a Colony](https://ethos.itu.dk/research-projects/mapping-colonial-copenhagen/) exploring the colonial relations between Denmark and what are now called US Virgin Islands, and importantly research into software maintenance with Marisa Cohn.
 
 I am proud to say that my first professional gig in academia in 2014 was at the [European Humanities University](https://en.ehuniversity.lt/) of Minsk, in exile in Vilnius.
 
@@ -70,7 +70,7 @@ Besides academic publications listed above, and talks and teachings listed below
 - "Münster writing" in the spirit of [Henriksen, Meldgaard Kjær et al. 2021](https://doi.org/10.1111/gwao.12782). A workshop at RUSTlab retreat, Münster (2025).
 - [Computer Care Day](https://www.virtuelle-lebenswelten.de/blog-post/computer-care-day-26-08-2025). A workshop at Ruhr University Bochum (2025).
 - Background music for Helene Seewald's [Tabula Cebetis in VR. Das Greifen nach der Virtualität eines Kunstwerks](https://www.virtuelle-lebenswelten.de/blog-post/virtuelles-objekt-des-monats-tabula-cebetis-in-vr) (2025).
-- Network thinking and Gephi workshop at Institute of Cultural Anthropology and European Ethnology, Goethe University, Frankfurt (2025).
+- [Network thinking and Gephi workshop](https://datenpolitiken.uni-frankfurt.de/2025/04/01/einfuehrung-in-das-netzwerkanalyse-tool-gephi/) at Institute of Cultural Anthropology and European Ethnology, Goethe University, Frankfurt (2025).
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at STS-Hub 2025, Berlin.
 - Augmented Reality data center, with Estrid Sørensen, Jens Fehrenbacher, Sandra Abels and Stefan Laser. An Augmented Reality experience at Virtuelle Lebenswelten Jahrestagung 2024, Bochum.
 - Augmented Reality data center, with Estrid Sørensen, Sandra Abels and Stefan Laser. An Augmented Reality experience at EASST/4S 2024, Amsterdam.
@@ -78,6 +78,7 @@ Besides academic publications listed above, and talks and teachings listed below
 - [What fits in a file?](https://www.virtuelle-lebenswelten.de/blog-post/phd-ata-what-data-looks-like-03-06--31-07-2024) An exhibition at Ruhr University Bochum (2024).
 - What to do about the internet as an early career academic?. A series of three BarCamp discussions (2024).
 - [Software and the sonic subconscious of the digital](https://open.ruhr-uni-bochum.de/en/lernangebot/software-and-sonic-subconscious-digital-oer). An Open Educational Resource (OER) on software studies and sound studies (2024).
+- [Web is a bunch of lists, let’s break it](https://open.ruhr-uni-bochum.de/de/lernangebot/web-bunch-lists-lets-break-it-oer/). Ae Open Educational Resource (OER) on creative programming with p5.js (2024).
 - [Creative programming in the wake of Modernism](https://open.ruhr-uni-bochum.de/en/lernangebot/creative-programming-wake-modernism-oer). An Open Educational Resource (OER) on creative programming with p5.js (2024).
 - [Database of Byzantine Book Epigrams](https://doi.org/10.5281/zenodo.7682523), with the DBBE team at UGent and Ghent Centre for Digital Humanities (2023)
 - Nordic Perspectives on Algorithmic Systems, with Airi Lampinen, Pedro Ferreira, Matti Nelimarkka, Michael Hockenhull, Jesse Haapoja, Marisa Cohn and Juho Pääkkönen. A card set developed at a workshop series to reconstruct and reimagine your automic existence (2022).
@@ -110,7 +111,7 @@ Besides academic publications listed above, and talks and teachings listed below
 - Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. RUSTlab lecture serie, Bochum, 2025.
 - Talks like an object, walks like an assemblage. Let's talk about the PDF. STS Italia, Milano, 2025.
 - If we disassemble our PDF files, will we find our hopes and dreams inside? Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024.
-- Machine listening and human listening, with Marja Ahti. Blaues Rauschen, Bochum, 2024.
+- [Machine listening and human listening](https://blauesrauschen.de/blaues-rauschen-2024/en/lecture-and-talk-en/), with Marja Ahti. Blaues Rauschen, Bochum, 2024.
 - On becoming an infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
 - Testing to circulate. Addressing the epistemic gaps of software testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023.
 - Feminist ethos under data production pressures. EASST, Madrid, 2022.
@@ -125,11 +126,11 @@ Besides academic publications listed above, and talks and teachings listed below
 
 ### 2022 to 2026 at Ruhr University Bochum
 
-- Digitale Choreographien
-- Digitale Methoden und kritische Datenforschung
+- Digitale Choreographien. With Gerko Egert
+- Digitale Methoden und kritische Datenforschung. With Estrid Sørensen
 - Software and the sonic subconsciousness of the digital
 - Programmieren für Medienwissenschaftler\*innen
-- Nachhaltigkeit und kritische Datenforschung
+- Nachhaltigkeit und kritische Datenforschung. With Estrid Sørensen
 
 ### 2024 to 2026 at Paderborn University
 
@@ -137,7 +138,7 @@ Besides academic publications listed above, and talks and teachings listed below
 
 ### 2021 to 2026 at University of Klagenfurt
 
-- A data sprint with PhD, Master and Bachelor students. In 2025 we made an atlas of Klagenfurt, and <a href="https://www.ii.at/cfp2026/">in 2026 we worked with tweets of the author and artist Ianina Ilitcheva</a> in co-operated with the Karl-Popper Archiv.
+- A data sprint with PhD, Master and Bachelor students. With Laura Kocksch and Katharina Kinder-Kurlanda. In 2025 we made an atlas of Klagenfurt, and <a href="https://www.ii.at/cfp2026/">in 2026 we worked with tweets of the author and artist Ianina Ilitcheva</a> in co-operated with the Karl-Popper Archiv.
 
 ### 2017 to 2022 at University of Copenhagen
 
