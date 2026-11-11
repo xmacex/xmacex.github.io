@@ -104,6 +104,7 @@ Besides academic publications listed above, and talks and teachings listed below
 
 ## A selection of talks
 
+- Königswege zur Computergeschichte? Drei Beispiele der kritischen Datenmodellierung aus dem Sonderforschungsbereich (SFB) Virtuelle Lebenswelten (1567), with Anna Tuschling and Till Heilmann. NFDI4Culture 6. Culture Community Plenary, Bochum, 2026.
 - Avoiding or escalating the current tragicomedy? Reflections on two positions in political ethnography, with Markus Rudolfi. AK politische Ethnographie, München, 2026.
 - Software maintenance as materialization of common knowledge. Maintenance and Philosophy SIG of The Society for Philosophy and Technology, online, 2025.
 - »If it looks like a signature…« A meditation on bodies and PDFs, with Tilman Richter. Medien\|Denken, Bochum, 2025.
