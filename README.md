@@ -111,7 +111,7 @@ Besides academic publications listed above, and talks and teachings listed below
 - Care, the computer, and us in virtual lifeworlds. [Computer Care Day, Bochum, 2025](https://www.virtuelle-lebenswelten.de/blog-post/computer-care-day-26-08-2025).
 - Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. [RUSTlab lecture serie, Bochum, 2025](https://rustlab.ruhr-uni-bochum.de/wp-content/uploads/2025/04/Theme_PDF_RUSTlab-Lectures-Summer-Term-2025.pdf).
 - Talks like an object, walks like an assemblage. Let's talk about the PDF. [STS Italia, Milano, 2025](https://stsitalia.org/event/panel-29/).
-- If we disassemble our PDF files, will we find our hopes and dreams inside? [Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024]((https://gfm2024.uni-mainz.de/files/2025/05/Veranstaltungsprogramm_GfM-2024_Conftool.pdf).
+- If we disassemble our PDF files, will we find our hopes and dreams inside? [Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024](https://gfm2024.uni-mainz.de/files/2025/05/Veranstaltungsprogramm_GfM-2024_Conftool.pdf).
 - [Machine listening and human listening](https://blauesrauschen.de/blaues-rauschen-2024/en/lecture-and-talk-en/), with Marja Ahti. Blaues Rauschen, Bochum, 2024.
 - On becoming an infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
 - Testing to circulate. Addressing the epistemic gaps of software testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. [STS-hub.de, Aachen, 2023](https://sts-hub.de/23/programme).
@@ -120,7 +120,7 @@ Besides academic publications listed above, and talks and teachings listed below
 - Maintain-ability. On life alongside software. DASTS, Aarhus, 2022.
 - Life alongside code. [Processing Community Day, Aarhus, 2021](https://pcdaarhus.net/2021/2021_program/).
 - Experiencing collective accounts of “touch”. Analyzing software maintainers just speak. [RUSTlab lecture serie, Bochum, 2020](https://rustlab.ruhr-uni-bochum.de/wp-content/uploads/2021/04/RUSTlab_levtures_WS2021_poster-final-1.pdf).
-- Software maintenance as materialization of common knowledge. EASST/4S, Prague, 2020.
+- [Software as an Object of Shared Maintenance Knowledge](https://convention2.allacademic.com/one/ssss/ssss20/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1658946). EASST/4S, Prague, 2020.
 - "As is". Patterns in Resistance, Copenhagen, 2018.
 
 ## Teaching
