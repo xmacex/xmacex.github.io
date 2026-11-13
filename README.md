@@ -104,22 +104,22 @@ Besides academic publications listed above, and talks and teachings listed below
 
 ## A selection of talks
 
-- Königswege zur Computergeschichte? Drei Beispiele der kritischen Datenmodellierung aus dem Sonderforschungsbereich (SFB) Virtuelle Lebenswelten (1567), with Anna Tuschling and Till Heilmann. NFDI4Culture 6. Culture Community Plenary, Bochum, 2026.
+- Königswege zur Computergeschichte? Drei Beispiele der kritischen Datenmodellierung aus dem Sonderforschungsbereich (SFB) Virtuelle Lebenswelten (1567), with Anna Tuschling and Till Heilmann. [NFDI4Culture 6. Culture Community Plenary, Bochum, 2026](https://nfdi4culture.de/de/veranstaltungen/details/6th-culture-community-plenary.html).
 - Avoiding or escalating the current tragicomedy? Reflections on two positions in political ethnography, with Markus Rudolfi. AK politische Ethnographie, München, 2026.
-- Software maintenance as materialization of common knowledge. Maintenance and Philosophy SIG of The Society for Philosophy and Technology, online, 2025.
+- Software maintenance as materialization of common knowledge. [Maintenance and Philosophy SIG of The Society for Philosophy and Technology, online, 2025](https://www.spt.org/sigs/maintenance_and_philosophy_of_technology/).
 - »If it looks like a signature…« A meditation on bodies and PDFs, with Tilman Richter. Medien\|Denken, Bochum, 2025.
 - Care, the computer, and us in virtual lifeworlds. Computer Care Day, Bochum, 2025.
-- Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. RUSTlab lecture serie, Bochum, 2025.
-- Talks like an object, walks like an assemblage. Let's talk about the PDF. STS Italia, Milano, 2025.
-- If we disassemble our PDF files, will we find our hopes and dreams inside? Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024.
+- Wow, PDF is such an assemblage: Let’s talk about network like, rhizomatic and unstable aspects of the Portable Document Format. [RUSTlab lecture serie, Bochum, 2025](https://rustlab.ruhr-uni-bochum.de/wp-content/uploads/2025/04/Theme_PDF_RUSTlab-Lectures-Summer-Term-2025.pdf)).
+- Talks like an object, walks like an assemblage. Let's talk about the PDF. [STS Italia, Milano, 2025](https://stsitalia.org/event/panel-29/).
+- If we disassemble our PDF files, will we find our hopes and dreams inside? [Jahrestagung der Gesellschaft für Medienwissenschaft, Mainz, 2024]((https://gfm2024.uni-mainz.de/files/2025/05/Veranstaltungsprogramm_GfM-2024_Conftool.pdf)).
 - [Machine listening and human listening](https://blauesrauschen.de/blaues-rauschen-2024/en/lecture-and-talk-en/), with Marja Ahti. Blaues Rauschen, Bochum, 2024.
 - On becoming an infrastructure. Personas of participation and intervention, with Fabian Pittroff. Leakage, Dresden, 2024.
-- Testing to circulate. Addressing the epistemic gaps of software testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023.
-- Feminist ethos under data production pressures. EASST, Madrid, 2022.
-- Blood, kin and code. Capturing social media data from Copenhagen. Big Data in Communication Research: A contextual turn? – An IAMCR pre-conference. with Qiuyu Jiang and Rachel Douglas-Jones, Beijing, 2022.
+- Testing to circulate. Addressing the epistemic gaps of software testing, with Anja Klein, Libuše Hannah Vepřek, Sarah Thanner, Rebecca Carlson and Tamara Gupper. STS-hub.de, Aachen, 2023](https://sts-hub.de/23/programme).
+- Feminist ethos under data production pressures. [EASST, Madrid, 2022](https://easst.net/wp-content/uploads/2025/07/EASST_2022_Madrid_Book_of_AbstractsDEF.pdf).
+- Blood, kin and code. Capturing social media data from Copenhagen, with Qiuyu Jiang and Rachel Douglas-Jones. [Big Data in Communication Research: A contextual turn? – An IAMCR pre-conference, Beijing, 2022](https://iamcr.org/sites/default/files/big_data_preconf2022.pdf).
 - Maintain-ability. On life alongside software. DASTS, Aarhus, 2022.
-- Life alongside code. Processing Community Day, Aarhus, 2021.
-- Experiencing collective accounts of “touch”. Analyzing software maintainers just speak. RUSTlab lecture serie, Bochum, 2020.
+- Life alongside code. [Processing Community Day, Aarhus, 2021](https://pcdaarhus.net/2021/2021_program/).
+- Experiencing collective accounts of “touch”. Analyzing software maintainers just speak. [RUSTlab lecture serie, Bochum, 2020](https://rustlab.ruhr-uni-bochum.de/wp-content/uploads/2021/04/RUSTlab_levtures_WS2021_poster-final-1.pdf).
 - Software maintenance as materialization of common knowledge. EASST/4S, Prague, 2020.
 - "As is". Patterns in Resistance, Copenhagen, 2018.
 
