@@ -129,8 +129,8 @@ Besides academic publications listed above, and talks and teachings listed below
 
 - Digitale Choreographien. With Gerko Egert
 - Digitale Methoden und kritische Datenforschung. With Estrid Sørensen
-- Software and the sonic subconsciousness of the digital
-- Programmieren für Medienwissenschaftler\*innen
+- Software and the sonic subconsciousness of the digital ([OER](https://open.ruhr-uni-bochum.de/en/lernangebot/software-and-sonic-subconscious-digital-oer))
+- Programmieren für Medienwissenschaftler\*innen ([OER 1](https://open.ruhr-uni-bochum.de/de/lernangebot/web-bunch-lists-lets-break-it-oer/), [OER 2](https://open.ruhr-uni-bochum.de/en/lernangebot/creative-programming-wake-modernism-oer))
 - Nachhaltigkeit und kritische Datenforschung. With Estrid Sørensen
 
 ### 2024 to 2026 at Paderborn University
